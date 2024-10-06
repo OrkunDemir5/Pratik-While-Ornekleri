@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\bin\Debug\net8.0\Pratik-While-Ornekleri.exe
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\bin\Debug\net8.0\Pratik-While-Ornekleri.deps.json
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\bin\Debug\net8.0\Pratik-While-Ornekleri.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\bin\Debug\net8.0\Pratik-While-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\bin\Debug\net8.0\Pratik-While-Ornekleri.pdb
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\refint\Pratik-While-Ornekleri.dll
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.pdb
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\Pratik-While-Ornekleri.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-While-Ornekleri\Pratik-While-Ornekleri\obj\Debug\net8.0\ref\Pratik-While-Ornekleri.dll
